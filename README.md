@@ -53,8 +53,8 @@ The main findings of the code can be found at the post available [here](https://
 
 In short summary is 
 - The AdaBoost classification model is used to predict whether an offer is going to be successfully completed based on customer and offer characteristics. The final model has an accuracy of 67%.  
- - The most relevant factors for offer success based on the model are:
-  - Membership duration, Income, Age, offer Duration.
+  - The most relevant factors for offer success based on the model are:
+    - Membership duration, Income, Age, offer Duration.
 - By looking at graph data we can say that Female spend more money, and that can help in targeting customers for starbucks.
 - Discount offer is more successful because not only the absolute number of 'offer completed' is slightly higher than BOGO offer, its overall completed/received rate is also about 7% higher. However, BOGO offer has a much greater chance to be viewed or seen by customers. But turning offer received to offer completed can be done by discount offer than bogo offer.
 
